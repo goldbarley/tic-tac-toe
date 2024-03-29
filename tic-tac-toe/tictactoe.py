@@ -34,7 +34,7 @@ def print_menu():
     print("MAIN MENU:")
     print("1. Play vs Computer (coming soon... *probably*) [cmd: .play_pvc]")
     print("2. Play Player_1 vs Player_2 [cmd: .play_pvp]")
-    print("3. Quit [cmd: .play_pvc]\n")
+    print("3. Quit [cmd: .quit]\n")
 
 def play_pvp():
     
