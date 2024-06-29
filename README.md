@@ -12,4 +12,4 @@ Here are a couple useful commands to keep in mind while playing the game.
 .play_pvc
 .quit
 ```
-These commands will, respective, match you against a human player, a computer (not yet added), and the `.quit` command terminates the program. You can use the `.quit` command to exit the game at any point you want.
+These commands will, respectively, match you against a human player, a computer (not yet added), and the `.quit` command terminates the program. You can use the `.quit` command to exit the game at any point you want.
